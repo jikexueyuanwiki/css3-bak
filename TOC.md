@@ -15,7 +15,23 @@
   * [属性选择器：E[attr$="value"]](selector_05.md)
   * [属性选择器：E[attr*="value"]](selector_06.md)
   * [伪类选择器：E:root](selector_07.md)
-* 3.CSS3选择器 
+  * [伪类选择器：E:nth-child(n)](selector_08.md)
+  * [伪类选择器：nth-last-child()](selector_09.md)
+  * [伪类选择器：E:nth-of-type(n)](selector_10.md)
+  * [伪类选择器：E:nth-last-of-type(n)](selector_11.md)
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  * []()
+  
+
+* * 3.CSS3选择器 
   * [简介]()
   * [颜色属性]()
   * [简介]()
