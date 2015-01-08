@@ -4,6 +4,14 @@
 
 如果内容溢出元素内容区域，是否对内容的左/右边缘进行裁剪。
 
+## 语法
+
+```
+overflow-x ： visible | auto | hidden | scroll
+
+overflow-y ： visible | auto | hidden | scroll
+```
+
 例：
 
 ```javascript

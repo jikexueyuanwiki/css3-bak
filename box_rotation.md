@@ -4,6 +4,12 @@
 
 围绕由 rotation-point 属性定义的点对元素进行旋转。
 
+## 语法
+
+```
+rotation: angle;
+```
+
 例：
 
 ```javascript

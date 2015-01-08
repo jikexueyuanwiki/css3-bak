@@ -4,6 +4,12 @@
 
 定义距离上左边框边缘的偏移点。
 
+## 语法
+
+```
+rotation-point: value;
+```
+
 例：
 
 ```javascript

@@ -4,6 +4,13 @@
 
 设置对象的不透明度
 
+## 语法
+
+```
+<length> | inherit
+```
+
+
 例：
 
 ```javascript
