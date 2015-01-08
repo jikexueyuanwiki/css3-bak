@@ -34,7 +34,7 @@
   * [颜色属性](frame_color.md)
   * [图片边框](frame_bordor-image.md)
   * [圆角边框](frame_border-radius.md)
-  * [阴影属性](frame_border-shadow.md)
+  * [阴影属性](frame_box-shadow.md)
 * 4.CSS3 背景 
   * [简介](background_intro)
   * [裁切属性](background_clip.md)

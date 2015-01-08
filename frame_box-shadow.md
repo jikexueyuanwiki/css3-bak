@@ -1,8 +1,14 @@
-# 阴影属性：border-shadow
+# 阴影属性：box-shadow
 
 ## 介绍
 
 为对象添加阴影
+
+## 语法
+
+```
+box-shadow: h-shadow v-shadow blur spread color inset;
+```
 
 
 例：为div元素添加阴影

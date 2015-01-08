@@ -4,6 +4,12 @@
 
 绘制圆角的矩形
 
+## 语法
+
+```
+border-radius: 1-4 length|% / 1-4 length|%;
+```
+
 ##补充
 
 border-top-left-radius 绘制对象左上角圆角边框

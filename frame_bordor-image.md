@@ -4,6 +4,12 @@
 
 使用图片来创建边框
 
+## 语法
+
+```
+border-image：<border-image-source> || <border-image-slice> [ / <border-image-width>? [ / <border-image-outset> ]? ]? || <border-image-repeat>
+``
+
 例：
 
 ```javascript
