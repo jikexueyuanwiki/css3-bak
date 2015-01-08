@@ -41,21 +41,20 @@
   * [尺寸属性](background_size.md)
   * [内联元素背景图像平铺循环方式](background-attachment.md)
   * [多背景属性](background_multiple.md)
-* 5.CSS3文本 
+* 5.CSS3 文本 
   * [简介](text_intro.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-  * [](.md)
-* 6.CSS3颜色 
-  * [简介]()
-  * [透明属性]()
-  * [颜色模式]()
-* 7.CSS3盒子模型 
-  * [盒模型简介]()
-* 8.CSS3动画 
+  * [文本阴影](text_shadow.md)
+  * [溢出文本](text_word-wrap.md)
+* 6.CSS3 颜色 
+  * [简介](color_intro.md)
+  * [透明属性](color_opacity.md)
+* 7.CSS3 盒子模型 
+  * [盒模型简介](box_intro.md)
+  * [盒模型：overflow-style](box_overflow-xy.md)
+  * [盒模型：overflow-style](box_overflow-style.md)
+  * [rotation](box_rotation.md)
+  * [rotation-point](box_rotation-point.md)
+* 8.CSS3 动画 
   * [2D变形]()
 * 9.页面布局（多栏布局）  
   * [简介]()
