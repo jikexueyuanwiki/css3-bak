@@ -4,6 +4,12 @@
 
 设置对象的背景图像的尺寸大小
 
+## 语法
+
+```
+background-size: length|percentage|cover|contain;
+```
+
 例：
 
 ```javascript

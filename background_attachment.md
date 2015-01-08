@@ -4,6 +4,14 @@
 
 设置对象的背景图像是随对象内容滚动还是固定的
 
+## 语法
+
+```
+background-attachment：<attachment> [ , <attachment> ]*
+<attachment> = fixed | local | scroll
+```
+
+
 例：
 
 ```javascript

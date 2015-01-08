@@ -4,6 +4,12 @@
 
 设置对象的背景向外裁剪的区域
 
+## 语法
+
+```
+background-clip: border-box|padding-box|content-box;
+```
+
 例：
 
 ```javascript

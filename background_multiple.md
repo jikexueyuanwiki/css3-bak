@@ -4,6 +4,12 @@
 
 复合属性，设置对象的多重背景图像（背景色background-color不能设置多重）
 
+## 语法
+
+```
+background ： [background-image] | [background-origin] | [background-clip] | [background-repeat] | [background-size] | [background-position]
+```
+
 例：
 
 ```javascript
