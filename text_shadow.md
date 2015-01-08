@@ -4,6 +4,12 @@
 
 给文本应用阴影
 
+## 语法
+
+```
+text-shadow ： none | <length> none | [<shadow>, ] * <shadow> 或none | <color> [, <color> ]*
+```
+
 例：给p元素应用阴影
 
 ```javascript
