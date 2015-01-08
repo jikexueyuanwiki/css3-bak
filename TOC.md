@@ -29,7 +29,7 @@
   * [UI元素状态伪类选择器：E::selection](selector_19.md)
   * [目标伪类：E:target](selector_20.md)
   * [否定伪类：E:not(s)](selector_21.md)
-* * 3.CSS3 边框
+* 3.CSS3 边框
   * [简介](frame_intro.md)
   * [颜色属性](frame_color.md)
   * [图片边框](frame_bordor-image.md)
