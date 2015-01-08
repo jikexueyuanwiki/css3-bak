@@ -60,6 +60,9 @@
   * [3D转换](animation_3d.md)
   * [过渡](animation_transition.md)
 * 9.页面布局（多栏布局）  
-  * [简介]()
-* 10.其他重要样式
-  * [简介]()
+  * [简介](layour_intro.md)
+  * [列宽属性：column-width](layout_column-width.md)
+  * [列数属性：column-count](layout_column-count.md)
+  * [边框样式属性：column-rule-style](layout_column-rule-style.md)
+  * [跨列属性：column-span](layout_column-span.md)
+  * [列间隔属性：column-gap](layout_column-gap.md)
