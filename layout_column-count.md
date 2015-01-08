@@ -4,6 +4,12 @@
 
 设置对象的列数
 
+## 语法
+
+```
+column-count: number|auto;
+```
+
 例：设置div中的文本为4列
 
 ```javascript

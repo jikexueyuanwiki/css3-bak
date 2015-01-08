@@ -4,6 +4,12 @@
 
 设置对象每列的宽度
 
+## 语法
+
+```
+column-width: auto|length;
+```
+
 例：
 
 ```javascript
