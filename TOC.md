@@ -29,17 +29,17 @@
   * [UI元素状态伪类选择器：E::selection](selector_19.md)
   * [目标伪类：E:target](selector_20.md)
   * [否定伪类：E:not(s)](selector_21.md)
-* * 3.CSS3 边框
+* 3.CSS3 边框
   * [简介](frame_intro.md)
   * [颜色属性](frame_color.md)
   * [图片边框](frame_bordor-image.md)
   * [圆角边框](frame_border-radius.md)
   * [阴影属性](frame_box-shadow.md)
 * 4.CSS3 背景 
-  * [简介](background_intro)
+  * [简介](background_intro.md)
   * [裁切属性](background_clip.md)
   * [尺寸属性](background_size.md)
-  * [内联元素背景图像平铺循环方式](background-attachment.md)
+  * [内联元素背景图像平铺循环方式](background_attachment.md)
   * [多背景属性](background_multiple.md)
 * 5.CSS3 文本 
   * [简介](text_intro.md)
@@ -50,7 +50,7 @@
   * [透明属性](color_opacity.md)
 * 7.CSS3 盒子模型 
   * [盒模型简介](box_intro.md)
-  * [盒模型：overflow-style](box_overflow-xy.md)
+  * [盒模型：overflow-x/y](box_overflow-xy.md)
   * [盒模型：overflow-style](box_overflow-style.md)
   * [rotation](box_rotation.md)
   * [rotation-point](box_rotation-point.md)
@@ -60,7 +60,7 @@
   * [3D转换](animation_3d.md)
   * [过渡](animation_transition.md)
 * 9.页面布局（多栏布局）  
-  * [简介](layour_intro.md)
+  * [简介](layout_intro.md)
   * [列宽属性：column-width](layout_column-width.md)
   * [列数属性：column-count](layout_column-count.md)
   * [边框样式属性：column-rule-style](layout_column-rule-style.md)
