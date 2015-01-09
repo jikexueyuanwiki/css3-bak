@@ -50,7 +50,7 @@
   * [透明属性](color_opacity.md)
 * 7.CSS3 盒子模型 
   * [盒模型简介](box_intro.md)
-  * [盒模型：overflow-style](box_overflow-xy.md)
+  * [盒模型：overflow-x/y](box_overflow-xy.md)
   * [盒模型：overflow-style](box_overflow-style.md)
   * [rotation](box_rotation.md)
   * [rotation-point](box_rotation-point.md)
