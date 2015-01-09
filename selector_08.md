@@ -24,6 +24,6 @@ background:#35b558;
 
 </body>
 </html>
+```
 
 > 注：</b>Internet Explorer 不支持 :nth-child() 选择器。
-```
