@@ -10,6 +10,6 @@ Internet Explorer 9+ 支持 border-radius 和 box-shadow 属性。
 
 Firefox、Chrome 以及 Safari 支持所有新的边框属性。
 
-＞　注：对于 border-image，Safari 5 以及更老的版本需要前缀 -webkit-。
+>　注：对于 border-image，Safari 5 以及更老的版本需要前缀 -webkit-。
 
-＞　Opera 支持 border-radius 和 box-shadow 属性，但是对于 border-image 需要前缀 -o-。
+>　Opera 支持 border-radius 和 box-shadow 属性，但是对于 border-image 需要前缀 -o-。
