@@ -36,10 +36,10 @@
   * [圆角边框](frame_border-radius.md)
   * [阴影属性](frame_box-shadow.md)
 * 4.CSS3 背景 
-  * [简介](background_intro)
+  * [简介](background_intro.md)
   * [裁切属性](background_clip.md)
   * [尺寸属性](background_size.md)
-  * [内联元素背景图像平铺循环方式](background-attachment.md)
+  * [内联元素背景图像平铺循环方式](background_attachment.md)
   * [多背景属性](background_multiple.md)
 * 5.CSS3 文本 
   * [简介](text_intro.md)
